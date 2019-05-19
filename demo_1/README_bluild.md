@@ -1,6 +1,10 @@
-# demo_1
+# 一个基于vue.js 的 todo list demo
 
 > A Vue.js project
+
+---
+
+![avatar](./demo.png)
 
 ## Build Setup
 
